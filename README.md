@@ -1,2 +1,2 @@
 # app-deth
-Ethereum Node focused on Developer Experience
+Ethereum TS Ethereum Node focused on Developer Experience
